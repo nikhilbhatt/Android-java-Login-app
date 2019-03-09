@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="pd">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
