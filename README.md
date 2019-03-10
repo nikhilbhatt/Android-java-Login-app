@@ -3,5 +3,8 @@ The user is first Registered using register activity and then he can access the 
 The user is registered with the help of sqlite database.
 
 This is how login activity looks.
-![In a single picture]
-(https://github.com/nikhilbhatt/Login/blob/master/login.png)
+![](https://github.com/nikhilbhatt/Login/blob/master/login.png)
+ 
+ 
+Register activity look like this.
+![](https://github.com/nikhilbhatt/Login/blob/master/register.png)
