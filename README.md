@@ -1,6 +1,6 @@
 # Login App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nikhilbhatt/https://github.com/nikhilbhatt/Android-java-Login-app/blob/master/LICENSE)   [![Contributors](https://img.shields.io/badge/CONTRIBUTORS-1-red)](https://github.com/nikhilbhatt/Android-java-Login-app/graphs/contributors)  [![Built for](https://img.shields.io/badge/BUILT%20FOR-ANDORID-brightgreen)](https://www.android.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nikhilbhatt/Android-java-Login-app/blob/master/LICENSE)   [![Contributors](https://img.shields.io/badge/CONTRIBUTORS-1-red)](https://github.com/nikhilbhatt/Android-java-Login-app/graphs/contributors)  [![Built for](https://img.shields.io/badge/BUILT%20FOR-ANDORID-brightgreen)](https://www.android.com/)
 
 In this Android project there is a login activity and Register activity.
 The user is first Registered using register activity and then he can access the app and can login through login activity.
