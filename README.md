@@ -20,10 +20,10 @@ The user is registered with the help of sqlite database.
    
 This is how login activity looks.
 
-<img src="https://github.com/nikhilbhatt/Login/blob/master/login.png" width="350" height="500">
+<img src="https://github.com/nikhilbhatt/Login/blob/master/login.png" width="300" height="500">
  
  
 Register activity look like this.
 
 
-<img src="https://github.com/nikhilbhatt/Login/blob/master/register.png" width="350" height="500">
+<img src="https://github.com/nikhilbhatt/Login/blob/master/register.png" width="300" height="500">
